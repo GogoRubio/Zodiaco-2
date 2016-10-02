@@ -13,7 +13,6 @@ public class signos {
 		Scanner mes= new Scanner(System.in);
 		b= mes.nextInt();
 		
-	//JOptionPane.showInputDialog("su signo es leo");
 			if (a>=22&&b==12){
 				System.out.println("Su signo es capricornio");}
 			if (a<20&&b==1){
